@@ -29,3 +29,5 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 # Entries
+Shreyas Kowshik [shreyas-kowshik](https://github.com/shreyas-kowshik)
+
