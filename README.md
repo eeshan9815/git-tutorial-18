@@ -29,4 +29,8 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 # Entries
+
 * Vishal Raj [VISHAL-RAJ-RAJ][https://github.com/VISHAL-RAJ-RAJ]
+
+* Eeshan Gupta [eeshan9815](https://github.com/eeshan9815)
+
