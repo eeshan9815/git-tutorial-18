@@ -29,4 +29,8 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 # Entries
+ HEAD
 * Sumegh[sumegh-github](https://github.com/sumegh-github)
+
+Eeshan Gupta [eeshan9815](https://github.com/eeshan9815)
+ c76a7fbe22647280fe4f424ffa7161b932c04825
