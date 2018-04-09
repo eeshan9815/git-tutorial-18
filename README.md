@@ -30,3 +30,5 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 
 # Entries
 * Prakhar Sharma joyousprakhar (http://github.com/joyousprakhar)
+Eeshan Gupta [eeshan9815](https://github.com/eeshan9815)
+
