@@ -29,6 +29,5 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 # Entries
-* Prakhar Sharma joyousprakhar (http://github.com/joyousprakhar)
 Eeshan Gupta [eeshan9815](https://github.com/eeshan9815)
-
+* Prakhar Sharma joyousprakhar (http://github.com/joyousprakhar)
